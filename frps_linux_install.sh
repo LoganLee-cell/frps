@@ -1,6 +1,6 @@
 #!/bin/sh
 FRP_VERSION="0.34.3"
-REPO="stilleshan/frps"
+REPO="LoganLee-cell/frps"
 WORK_PATH=$(dirname $(readlink -f $0))
 
 # 创建frp文件夹
